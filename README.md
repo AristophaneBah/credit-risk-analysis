@@ -7,7 +7,7 @@ The objective is to demonstrate how credit decisions are made in realistic lendi
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
 - Realistic **Probability of Default (PD)** modeling
 - Bank-style decisions: **APPROVE / REVIEW / REJECT**
@@ -44,7 +44,7 @@ The objective is to demonstrate how credit decisions are made in realistic lendi
 
 ---
 
-## 🧠 Key Design Choices
+## Key Design Choices
 
 - Outliers are retained because extreme values are informative in credit risk
 - Tree-based models are used for robustness to non-normal distributions
@@ -52,8 +52,9 @@ The objective is to demonstrate how credit decisions are made in realistic lendi
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
 jupyter notebook Credit_Risk_Project.ipynb
+
