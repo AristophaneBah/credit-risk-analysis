@@ -18,7 +18,7 @@ The objective is to demonstrate how credit decisions are made in realistic lendi
 
 ---
 
-## 📊 Methodology Overview
+## Methodology Overview
 
 ### 1. Data Preparation
 - Final loan outcomes only (Fully Paid vs Default / Charged Off)
@@ -57,4 +57,5 @@ The objective is to demonstrate how credit decisions are made in realistic lendi
 ```bash
 pip install -r requirements.txt
 jupyter notebook Credit_Risk_Project.ipynb
+
 
